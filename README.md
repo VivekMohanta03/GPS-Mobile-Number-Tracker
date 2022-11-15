@@ -7,4 +7,4 @@ A GPS Tracker using Python that will show you from which county the phone number
 <li>It will also show the latitude and longitude as well as the Service Provider. </li>
 </ul>
 <hr>
-<p align="center">Hope you like it.....ッッ</p>
+<p align="center">Hope you like it....😊😊</p>
